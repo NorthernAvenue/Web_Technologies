@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Teddy Bear';
+    src: url(/Web_Technologies/fonts/fonts/teddy_bear.woff2);
+}
+
+h1 {
+    color: red;
+}
+
+h2,
+a {
+    color: green;
+}
+
+h2 {
+    color: yellow;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img {
+    width: 500px;
+}
+
+.bigtext {
+    font-size: 25px;
+    font-family: 'Teddy Bear', sans-serif;
+}
+
+ul {
+
+    list-style-type: square;
+}
+
+a:hover {
+    color: red;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
